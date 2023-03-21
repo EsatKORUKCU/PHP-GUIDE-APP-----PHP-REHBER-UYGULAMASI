@@ -1,2 +1,2 @@
-# PHP-REHBER-UYGULAMASI
-PHP-bootcamp-derslerden-yap-lan-al-malar-6
+# PHP-GUIDE-APP-----PHP-REHBER-UYGULAMASI 
+Studies from PHP bootcamp courses-6 ---- PHP bootcamp kurslarından yapılan çalışmalar-6
